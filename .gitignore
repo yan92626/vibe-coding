@@ -1,0 +1,5 @@
+# Temporary files
+tmp/
+
+# Claude Code directory
+.claude/
