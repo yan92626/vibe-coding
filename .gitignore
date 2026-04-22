@@ -3,3 +3,6 @@ tmp/
 
 # Claude Code directory
 .claude/
+
+# Claude Code configuration
+CLAUDE.md
