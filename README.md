@@ -1,8 +1,10 @@
 # Vibe Coding：AI 时代的编程方法论
 
-三个月前，我还在为一个简单的功能写了两天代码。现在，同样的功能，半小时搞定。
+从 2023 年 GPT-3.5 的 web 对话，到 API 调用、prompt engineering，再到 workflow 编排、agent 工程，直到 Cursor、Claude Code 等现代工具，MCP、Skill 的深度使用，再到最近爆火的 OpenClaw、Hermes Agent等各种龙虾、以及 Harness 等新概念——我基本经历了整个 AI 编程的进化周期，也一直在关注和体验最前沿的变化。
 
-不是我变聪明了，是我学会了和 AI 协作编程。这份文档记录了我从"用 AI 但效率很低"到"效率翻倍"的完整过程，以及踩过的所有坑。
+每一次工具的变革，我都深切体会到了它带来的价值：2023 年用 GPT-3.5 时，每次对话都要复制粘贴项目背景，4K 的上下文限制让人抓狂；到了 API 时代，开始用 function calling，但不同模型的 schema 设计让人头疼；2024 年上半年研究 prompt engineering，zero-shot、few-shot、CoT 这些技术让我意识到"如何说"比"说什么"更重要；接着尝试 Coze、Dify 的可视化编排，发现拖拽虽快但灵活性不足；然后转向 LangChain、LangGraph 搭建 multi-agent，结果发现复杂的架构往往不如一个好的 prompt 有效；2024 年末 MCP 的出现让我看到了能力标准化的可能性；2025 年 Cursor、Claude Code 的成熟，项目级的上下文理解、智能的记忆管理、自动的模型路由，才让我真正感受到"AI 理解我的项目"；Skill 系统的推出，让可复用的 prompt 模式有了标准化的封装方式；而 2026 年初 OpenClaw、Hermes Agent 等新工具的爆火，又展示了 AI 编程工具的新形态和可能性。
+
+这份文档记录了我在这个过程中的完整思考：为什么会出现 Vibe Coding 这种编程方式？它的核心理念是什么？如何在实际项目中应用？遇到问题怎么解决？以及，如何选择和使用各种 AI 工具。这是我对"AI 时代如何高效编程"这个问题的系统化回答。
 
 ## 这份文档适合谁？
 
